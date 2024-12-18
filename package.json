@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-all": "npx nightwatch ./nightwatch/examples",
-    "basic": "npx nightwatch ./nightwatch/examples/basic/ecosia.js",
+    "login": "npx nightwatch ./test/home.js",
+    "home": "npx nightwatch ./test/login.js",
     "lint": "prettier --write ."
   },
   "keywords": [],
