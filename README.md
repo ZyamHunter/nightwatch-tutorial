@@ -57,8 +57,8 @@ Aqui está uma estrutura de diretórios recomendada para organizar seus testes e
 ## Rodando os Testes
 Para rodar seus testes, basta executar o seguinte comando:
 
-> npm run login
-> npm run home
+- npm run login
+- npm run home
 
 ## Dicas e Boas Práticas
 
